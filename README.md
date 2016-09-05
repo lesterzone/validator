@@ -1,6 +1,6 @@
 # Validator
 
-Simple validator based on the idea of validate as simple as possible.
+Simple validator to validate as simple as possible.
 There's just one goal, validate and return a map with errors
 
 ## Is this package for you ?
@@ -44,6 +44,7 @@ valid, errors := e.Validate()
 ## Install
 
 Just copy validator.go and validator_test.go to your project, change it as
-wish and don't expect until this package is updated from this repo.
+you wish and don't wait until this repo is updated, *but*, feel free to
+provide feedback, open issues and collaborate.
 
 
